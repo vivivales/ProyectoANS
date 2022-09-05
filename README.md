@@ -1,6 +1,6 @@
 # Simulador de Eventos Comerciales con Técnicas de Aprendizaje no Supervisado - Clustering
 
-# ¿Donde puedo consultar el docuumento del desarrollo?
+# ¿Donde puedo consultar el documento que va del desarrollo?
 https://github.com/vivivales/ProyectoANS/blob/d03d77a6821188a8304c375b99606d15605b8420/Propuesta%20Inicial%20-%20Primera%20Entrega.pdf
 
 ## ¿Qué hace el proyecto?
