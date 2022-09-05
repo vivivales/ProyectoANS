@@ -24,12 +24,12 @@ Por lo anterior, en este proyecto se pretende realizar un análisis a través de
 
 A través de este proyecto se pretende maximizar la utilidad de los días especiales de ofertas que genera esta empresa, buscando focalizar las estrategias comerciales buscando encontrar los productos que mayor utilidad dejen bien sea por el volumen de clientes que lo llevan o por su margen.
 
-## ¡Cómo pueden comenzar los usuarios con el proyecto?
+## ¿Cómo pueden comenzar los usuarios con el proyecto?
 1. Análisis exploratorio de los datos: Da un vistazo al análisis descriptivo y a las estadísticas que nos permiten profundizar en el conocimiento de los datos disponibles
 2. Algoritmos y Técnicas Implementadas: Comprende los algoritmos y técnicas que utilizamos y las razones por las cuales los seleccionamos.
 3. Implementación: Chequea los resultados de la implementación de los algortimos propuestos
 4. Informe de Resultados y Conclusiones: Chequea los avances del proyecto y el estado de su implementación
 
 
-## ¡Quién mantiene y contribuye con el proyecto?
+## ¿Quién mantiene y contribuye con el proyecto?
 Estudiantes de la Maestría de Inteligencia Analítica de Datos para la Toma de Decisiones de la Universidad de los Andes en Colombia
