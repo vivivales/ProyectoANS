@@ -1,7 +1,25 @@
 # Simulador de Eventos Comerciales con Técnicas de Aprendizaje no Supervisado - Clustering
 
 # ¿Donde puedo consultar el documento que va del desarrollo?
+
+## Primera Entrega:
 https://github.com/vivivales/ProyectoANS/blob/d03d77a6821188a8304c375b99606d15605b8420/Propuesta%20Inicial%20-%20Primera%20Entrega.pdf
+
+## Entrega Final:
+
+https://github.com/vivivales/ProyectoANS/blob/main/Proyecto%20final%20ANS.pdf
+
+###Presentacion:
+
+https://github.com/vivivales/ProyectoANS/blob/main/Proyecto%20final%20ANS.pptx
+
+Codigo:
+
+https://github.com/vivivales/ProyectoANS/blob/main/Proyecto%20Final.ipynb
+
+Video:
+
+https://www.youtube.com/watch?v=p4BZ9PcoKfo
 
 ## ¿Qué hace el proyecto?
 
